@@ -76,6 +76,9 @@ To build and run use:
 To run the tests execute:
 `cabal configure --enable-tests && cabal build && cabal test`
 
+If you want to see a more detailed and highlighted output you can run the test executeable itself:
+`cabal configure --enable-tests && cabal build && ./dist/build/tests/tests`
+
 
 ## Helpfull Reads
 
