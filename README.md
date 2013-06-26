@@ -1,6 +1,6 @@
 haskell-sample-fizzbuzz-project
 ===============================
-Extended Code kata based on [http://content.codersdojo.org/code-kata-catalogue/fizz-buzz/]
+Extended Code kata based on http://content.codersdojo.org/code-kata-catalogue/fizz-buzz/
 
 
 ## Tools
